@@ -5,4 +5,4 @@ return reverseString(word.slice(1)) + word[0];
 
 }
 
-console.log(reverseString("live"));
+console.log(reverseString("are"));
